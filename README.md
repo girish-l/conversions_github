@@ -1,7 +1,7 @@
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
-# This is my package conversions
+# This is conversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/girish-l/conversions.svg?style=flat-square)](https://packagist.org/packages/girish-l/conversions)
 [![Tests](https://github.com/girish-l/conversions/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/girish-l/conversions/actions/workflows/run-tests.yml)
